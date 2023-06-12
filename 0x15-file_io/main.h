@@ -2,8 +2,6 @@
 #define MAIN_H
 
 #include <stdio.h>
-#include <stdarg.h>
-#include <stddef.h>
 #include <unistd.h>
 #include <stdlib.h>
 #include <sys/types.h>
